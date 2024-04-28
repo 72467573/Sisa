@@ -5,7 +5,6 @@
     font-weight: normal;
     font-style: normal;
     font-size: 24px;
-    /* Preferred icon size */
     display: inline-block;
     line-height: 1;
     text-transform: none;
@@ -61,7 +60,7 @@ h4 {
 
 a.normal {
     text-decoration: none;
-    color: #ed7272;
+    color: #ffff     ;
 }
 
 h6 {
@@ -153,7 +152,7 @@ body {
 
 #header #navbar li a.active,
 #header #navbar li a:hover {
-    color: #ed7272;
+    color: #8FEDA8;
 }
 
 #header #navbar li a.active::after,
@@ -161,7 +160,7 @@ body {
     content: "";
     width: 60%;
     height: 2px;
-    background-color: #ed7272;
+    background-color: #8FEDA8;
     position: absolute;
     bottom: -4px;
     left: 0;
@@ -180,7 +179,7 @@ main {
 }
 
 main #hero {
-    background-image: url("../img/Gamers\ Caves.png");
+    background-image: url("../img/Portada\ P.jpg");
     background-size: cover;
     background-position: top 45% right 0;
     width: 100%;
@@ -193,17 +192,17 @@ main #hero {
 }
 
 main #hero h1 {
-    color: #ed7272;
+    color: #FFFF    ;
 }
 
 main #hero p{
-    color: #ed7272;
+    color: #FFF;
 }
 
 main #hero button {
     background-image: url('../img/home/button.png');
     background-color: transparent;
-    color: #ed7272;
+    color: #ffff;
     border: none;
     outline: none;
     padding: 1rem 5rem 1rem 4rem;
@@ -225,7 +224,7 @@ main #feature .fe-box {
     text-align: center;
     padding: 1.5rem 1rem;
     box-shadow: 20px 20px 2rem rgba(0, 0, 0, 0.04);
-    border: 1px solid #d69fd8;
+    border: 1px solid #8FEDA8;
     border-radius: .25rem;
     margin: 15px 0;
 }
@@ -371,12 +370,12 @@ main #banner h2 {
 }
 
 main #banner span {
-    color: #ef3636;
+    color: #8FEDA8;
     font-size: 2rem;
 }
 
 main #banner button:hover {
-    background-color: #f14e4e;
+    background-color: #8FEDA8;
     color: #fff;
 }
 
@@ -424,8 +423,8 @@ main #sm-banner button {
 }
 
 main #sm-banner .banner-box:hover button {
-    border: 1px solid #ed7272;
-    background-color: #ed7272;
+    border: 1px solid #8FEDA8;
+    background-color: #8FEDA8;
 }
 
 main #sm-banner .banner-box2 {
@@ -648,7 +647,7 @@ footer .copyright {
 
 #prodetails .single-pro-details h2 {
     font-size: 32px;
-    color: #ed7272;
+    color: #8FEDA8;
 }
 
 #prodetails .single-pro-details select {
@@ -670,7 +669,7 @@ footer .copyright {
 }
 
 #prodetails .single-pro-details button {
-    background: #ed7272;
+    background: #8FEDA8;
     color: #fff;
 }
 
@@ -748,11 +747,11 @@ footer .copyright {
 
 
 #blog .blog-details a:hover {
-    color: #ed7272;
+    color: #8FEDA8;
 }
 
 #blog .blog-details a:hover::after {
-    background-color: #ed7272;
+    background-color: #8FEDA8;
 }
 
 #blog .blog-box h1 {
@@ -889,7 +888,7 @@ marquee {
 }
 
 #form-details form button {
-    background-color: #ed7272;
+    background-color: #8FEDA8;
     color: #fff;
 }
 
@@ -993,7 +992,7 @@ marquee {
 
 #cupon button,
 #subtotal button {
-    background-color: #ed7272;
+    background-color: #8FEDA8;
     color: #fff;
     padding: 12px 20px;
 }

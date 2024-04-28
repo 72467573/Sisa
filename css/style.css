@@ -49,7 +49,7 @@
 
 #header #navbar li a.active,
 #header #navbar li a:hover {
-    color: #ed7272;
+    color: #8FEDA8;
 }
 
 #header #navbar li a.active::after,
@@ -57,7 +57,7 @@
     content: "";
     width: 60%;
     height: 2px;
-    background-color: #ed7272;
+    background-color: #8FEDA8;
     position: absolute;
     bottom: -4px;
     left: 0;
@@ -217,7 +217,7 @@ h4 {
 
 a.normal {
     text-decoration: none;
-    color: #ed7272;
+    color: #8FEDA8;
 }
 
 h6 {
@@ -309,7 +309,7 @@ body {
 
 #header #navbar li a.active,
 #header #navbar li a:hover {
-    color: #ed7272;
+    color: #8FEDA8;
 }
 
 #header #navbar li a.active::after,
@@ -317,7 +317,7 @@ body {
     content: "";
     width: 60%;
     height: 2px;
-    background-color: #ed7272;
+    background-color: #8FEDA8;
     position: absolute;
     bottom: -4px;
     left: 0;
